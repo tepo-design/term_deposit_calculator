@@ -6,9 +6,8 @@ By Tessa Podbury
 1. Ensure your machine has Ruby 3.3.0 installed.
 2. Clone repo
 3. From the root of the repo, run `bundle install`
-4. Run command `chmod +x lib/term_deposit_calculator.rb`.
-5. To start the app, run command `ruby lib/term_deposit_calculator.rb`.
-6. To run the tests, run command `rspec -fd`
+4. To start the app, run command `ruby lib/term_deposit_calculator.rb`.
+5. To run the tests, run command `rspec -fd`
 
 ## Assumptions
 Based on the brief to focus less on the UI, the vast majority of my time was spent on the backend logic and testing. The entry class/CLI functionality was a fast and dirty last minute addition due to the timeframe given - this is definitely not up to standard.
